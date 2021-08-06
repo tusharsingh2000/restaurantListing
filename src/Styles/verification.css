@@ -1,0 +1,21 @@
+
+  .styles_react-code-input-container__tpiKG{
+    width: 100% !important;
+  }
+
+  .styles_react-code-input__CRulA > input{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    margin-right: 5px;
+}
+
+.styles_react-code-input__CRulA > input:first-child {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
+.styles_react-code-input__CRulA > input:last-child {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
